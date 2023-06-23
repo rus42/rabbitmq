@@ -57,7 +57,5 @@ $ rabbitmqadmin get queue='hello'
 
 Приложите скриншот результата работы второго скрипта.
 
-![alt text](https://github.com/rus42/rabbitmq/blob/main/Task_3.5.png)
-
-![alt text](https://github.com/rus42/rabbitmq/blob/main/Task_3.6.png)
-
+В данном задании не совсем понятно, что требуется в результате, чтобы все таки выполнилось добавление сообщения в очередь или просто показать возникающее сообщение? На скрине ниже видно, что соединение с неотключенным сервером установлено, но в очередь сообщение не добавлено.
+![alt text](https://github.com/rus42/rabbitmq/blob/main/Task_3.7.png)
