@@ -4,7 +4,7 @@ Rabbitmq Васёв А.В.
 
 Используя Vagrant или VirtualBox, создайте виртуальную машину и установите RabbitMQ. Добавьте management plug-in и зайдите в веб-интерфейс.
 
-![alt text](https://github.com/rus42/Backup/blob/main/path/Task_1.png)
+![alt text](https://github.com/rus42/rabbitmq/blob/main/Task_1.png)
 
 Задание 2. Отправка и получение сообщений
 
